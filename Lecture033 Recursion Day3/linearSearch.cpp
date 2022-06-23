@@ -41,3 +41,21 @@ int main() {
 
     return 0;
 }
+
+//Input : 3
+
+//Output
+
+/*Size of array is 5
+11 32 74 6 33 
+Size of array is 4
+32 74 6 33 
+Size of array is 3
+74 6 33 
+Size of array is 2
+6 33 
+Size of array is 1
+33 
+Size of array is 0
+
+Not Found*/
